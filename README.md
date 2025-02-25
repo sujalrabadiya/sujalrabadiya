@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=sujalrabadiya&style=plastic)
+![](https://komarev.com/ghpvc/?username=sujalrabadiya&style=pixel)
 <!--
 **sujalrabadiya/sujalrabadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
